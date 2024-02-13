@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bhumikachinta24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xAWq-pT7tS2-DXJGxEryrN-YOJy7Oi8j/view](https://drive.google.com/file/d/1xAWq-pT7tS2-DXJGxEryrN-YOJy7Oi8j/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/home]
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
