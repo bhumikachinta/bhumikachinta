@@ -4,7 +4,7 @@
 <h1 align="center">Hello World 👋, I'm Chinta Bhumika!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python and DSA**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhumikachinta](https://github.com/bhumikachinta)
 
